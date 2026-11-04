@@ -1,6 +1,6 @@
 # Clasificación de microestructuras bainíticas con Deep Learning
 
-Proyecto de **Inteligencia Artificial II**: clasificación automática de micrografías de acero bainítico en tres clases usando redes convolucionales (CNN propia, EfficientNetB0, ResNet50) y un Vision Transformer (ViT).
+Proyecto de **Inteligencia Artificial II**: Clasificación automática de micrografías de acero bainítico en tres clases usando redes convolucionales (CNN propia, EfficientNetB0, ResNet50) y un Vision Transformer (ViT).
 
 ![Portada](./Portada.png)
 
